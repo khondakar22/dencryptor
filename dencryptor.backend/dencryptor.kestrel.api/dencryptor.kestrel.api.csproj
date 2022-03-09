@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Api.Auth\" />
+    <Folder Include="Api.Config\" />
+    <Folder Include="Api.Controllers\" />
+    <Folder Include="Api.Exntensions\" />
+    <Folder Include="Api.Middleware\" />
+    <Folder Include="Api.Models\" />
+  </ItemGroup>
+
+</Project>
